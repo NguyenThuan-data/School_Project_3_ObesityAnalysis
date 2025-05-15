@@ -37,7 +37,7 @@ The project report is structured as follows:
 ---
 
 ## 📁 Full Report
-* To read the full detailed report including graphs, insights, and methodology, click below:
+* To read the full detailed report including graphs, insights, and methodology, click:
 [Obesity_Analysiss.pdf](./Obesity_Analysiss.pdf)
 
 ---
