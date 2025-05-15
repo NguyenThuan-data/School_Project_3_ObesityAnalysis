@@ -33,7 +33,6 @@ The project report is structured as follows:
 * Task 2: Data Exploration - This section covers the initial understanding of the dataset, including feature details, data types, summary statistics, and data cleanliness checks.
 * Task 3: Classification Models -  This section explains the implementation of the classification models used in the analysis.
 * Task 4: Result and Discussion - This section presents the analysis of the model results and discusses the dietary and daily living habits that significantly affect obesity levels.
-* References - This section provides a list of references used in the report.
 
 ---
 
